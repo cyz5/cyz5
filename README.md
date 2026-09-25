@@ -21,31 +21,37 @@
 ## 01 · Profile
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
+<tr>
+<td width="50%" valign="top">
 
-### About Me
+<h3>About Me</h3>
 
-I am an Embedded Software Engineer at **Schneider Electric** and a part-time graduate student at **ENCU**, majoring in **Communication Engineering**.
+<p>
+I am an Embedded Software Engineer at <strong>Schneider Electric</strong> and a part-time graduate student at <strong>ENCU</strong>, majoring in <strong>Communication Engineering</strong>.
+</p>
 
+<p>
 I enjoy working close to the hardware and exploring the complete embedded software stack, from firmware and real-time systems to operating systems and computer architecture.
+</p>
 
-    </td>
-    <td width="50%" valign="top">
+</td>
+<td width="50%" valign="top">
 
-### Main Interests
+<h3>Main Interests</h3>
 
-- MCU firmware development
-- RTOS and real-time systems
-- ARM architecture
-- RISC-V architecture
-- Embedded Linux
-- Device drivers and BSP
-- Bootloaders and system bring-up
-- Firmware security
+<ul>
+<li>MCU firmware development</li>
+<li>RTOS and real-time systems</li>
+<li>ARM architecture</li>
+<li>RISC-V architecture</li>
+<li>Embedded Linux</li>
+<li>Device drivers and BSP</li>
+<li>Bootloaders and system bring-up</li>
+<li>Firmware security</li>
+</ul>
 
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
 > Personal projects and opinions are my own and do not represent my employer.
@@ -58,7 +64,6 @@ I enjoy working close to the hardware and exploring the complete embedded softwa
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=111827" alt="C">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Bash-1F2937?style=flat-square&logo=gnubash&logoColor=white" alt="Bash">
 </p>
 
 <p>
@@ -75,7 +80,6 @@ I enjoy working close to the hardware and exploring the complete embedded softwa
   <img src="https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white" alt="CMake">
   <img src="https://img.shields.io/badge/GDB-374151?style=flat-square&logo=gnu&logoColor=white" alt="GDB">
   <img src="https://img.shields.io/badge/QEMU-FF6600?style=flat-square&logo=qemu&logoColor=white" alt="QEMU">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
 </p>
 
 ---
